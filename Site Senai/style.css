@@ -1,0 +1,164 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cabecalho1{
+    background-color: rgba(0, 0, 0, 0.445);
+    position: fixed;
+    width: 2500px;
+    height: 125px;
+    top: 0px;
+}
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "anek devangar", sans-serif;
+}
+.icon{
+    width: 25px;
+}
+
+.text_cab{
+    color: white;
+
+}
+
+.icon_senai{
+    width: 170px;
+    position: absolute;
+    left: 50px;
+    top: 15px;
+}
+#tc1{
+    position: absolute;
+    right: 690px;
+    top:46px;
+    font-size: 150%;
+}
+#tc2{
+    position: absolute;
+    right: 510px;
+    top:46px;
+    font-size: 150%;
+}
+#tc3{
+    position: absolute;
+    right: 340px;
+    top:46px;
+    font-size: 150%;
+}
+#tc4{
+    position: absolute;
+    background-color: red;
+    right: 100px;
+    top: 35px;
+    height: 55px;
+    width: 175px;
+    border-radius: 10%;
+    font-size: 130%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fixed{
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    background-color: rgba(17, 206, 118, 0.781);
+    right: 150px;
+    bottom: 220px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 125px;
+}
+.absolute{
+        position: absolute;
+        top: 350px;
+        left: 289px;
+        width: 650px;
+        height: 400px;
+        background-color: rgba(255, 255, 255, 0.678);
+        z-index: 0;
+        font-size: 70px;
+        border-radius: 10%;
+}
+.Acessar{
+    position: absolute;
+    background-color: red;
+    height: 75px;
+    left: 150px;
+    width: 350px;
+    border-radius: 10%;
+    font-size: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 245px;
+}
+.text_cab{
+    text-decoration: none;
+    color: white;
+}
+.text_cab:hover{
+    color:black
+}
+.pc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+.ima_pc{
+    box-shadow: 0 0 10px rgb(0, 0, 0) ;
+    height: px;
+    border-radius: 10%;
+}
+.imacon_senai2{
+    background-color: rgba(0, 0, 0, 0.445);
+    position: fixed;
+    width: 2500px;
+    height: 125px;
+    top: 100px;
+}
+.cabecalho2{
+    background-color: rgba(0, 0, 0, 0.735);
+    width: 2500px;
+    height: 125px;
+    bottom: 0px;
+    margin-top: 150px;
+}
+
+.icon_senai2{
+    width: 170px;
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+.texto_footer{
+    position: absolute;
+    right: 40px;
+    top: 2598px;
+    color: rgb(227, 227, 227);
+}
+.icon_senai5{
+    width: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.online{
+   margin-top: 3%;
+   font-size: 100px;
+   top: 30px;
+}
+.Apredizagem{
+    margin-top: 1%;
+    font-size: 60px;
+     top: 50px;
+ }
